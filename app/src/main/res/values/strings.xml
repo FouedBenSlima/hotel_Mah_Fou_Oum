@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">hotel_Mah_Fou_Oum</string>
+    <string name="name">Hôtel Mahmoud, Foued et Oumaima</string>
+    <string name="login">S\'identifier</string>
+    <string name="pwd">Mot de passe</string>
+    <string name="btnCon">Connexion</string>
+    <string name="consulter">Consulter</string>
+    <string name="gerer">Gerer</string>
+    <string name="deconnexion">Deconnexion</string>
+    <string name="salutation">Bienvenue</string>
+    <string name="create_account">Créer un compte</string>
+    <string name="email_format_error">Email incorrrect</string>
+    <string name="inscrit">inscrit</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prenom</string>
+    <string name="email_or_password_empty">verifier votre s\'identifier et mot de passe</string>
+    <string name="anneler">Anneler</string>
+    <string name="ajouterchambre"> ajouter chambre</string>
+    <string name="numchambre">numéro chambre</string>
+    <string name="nbrlit">nombre de lit</string>
+    <string name="prix">prix de residance</string>
+    <string name="libre">libre</string>
+    <string name="occuper">occuper</string>
+    <string name="Nomclient">Nom de client</string>
+    <string name="Prenomclient">Prenom de client</string>
+    <string name="CIN">CIN</string>
+    <string name="Datedebut">Date de debut</string>
+    <string name="DateFin">Date de Fin</string>
+
+    <string name="title_activity_gerer">gerer</string>
+    <string name="title_activity_consulte">consulte</string>
+    <string name="title_activity_accueil">Accueil</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_page__accueil">page_Accueil</string>
+    <string name="title_activity_consulter">consulter</string>
+    <string name="title_activity_ajouter_chambre">ajouter_chambre</string>
+
+</resources>
